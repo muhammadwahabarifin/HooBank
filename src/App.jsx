@@ -1,4 +1,15 @@
-import { Business, Hero, Footer, Navbar, Stats, Billing, CardDeal, Testimonials, Clients, Cta } from './components'
+import { 
+  Business, 
+  Hero, 
+  Footer, 
+  Navbar, 
+  Stats, 
+  Billing, 
+  CardDeal, 
+  Testimonials, 
+  Clients, 
+  Cta 
+} from './components'
 
 import styles from './styles';
 
